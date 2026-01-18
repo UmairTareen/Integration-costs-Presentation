@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.5.27)  28 JUN 2025 20:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.5.27)  15 JAN 2026 11:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1277,7 +1277,7 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 56.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 8.0pt on input line 56.
-<logos/uliege_small.pdf, id=37, 216.74821pt x 245.88615pt>
+<logos/uliege_small.pdf, id=41, 216.74821pt x 245.88615pt>
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
 Package pdftex.def Info: logos/uliege_small.pdf  used on input line 56.
@@ -1302,13 +1302,13 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<logos/photo_offshore.jpg, id=38, 3418.7725pt x 2131.965pt>
+<logos/photo_offshore.jpg, id=42, 3418.7725pt x 2131.965pt>
 File: logos/photo_offshore.jpg Graphic file (type jpg)
 <use logos/photo_offshore.jpg>
 Package pdftex.def Info: logos/photo_offshore.jpg  used on input line 60.
 (pdftex.def)             Requested size: 410.60017pt x 256.0748pt.
 Missing character: There is no ; in font nullfont!
-<logos/uliege_uliege.pdf, id=40, 728.00786pt x 353.31898pt>
+<logos/uliege_uliege.pdf, id=44, 728.00786pt x 353.31898pt>
 File: logos/uliege_uliege.pdf Graphic file (type pdf)
 <use logos/uliege_uliege.pdf>
 Package pdftex.def Info: logos/uliege_uliege.pdf  used on input line 60.
@@ -1323,7 +1323,7 @@ on: multiple pdfs with page group included in a single page
 >] [2
 
 ]
-<./images//global.png, id=62, 833.1125pt x 803.0pt>
+<./images//global.png, id=66, 833.1125pt x 803.0pt>
 File: ./images//global.png Graphic file (type png)
 <use ./images//global.png>
 Package pdftex.def Info: ./images//global.png  used on input line 77.
@@ -1343,12 +1343,12 @@ Package pdftex.def Info: logos/uliege_small.pdf  used on input line 77.
 [3
 
  <./logos/uliege_small.pdf> <./images//global.png>]
-<./images//wind.png, id=75, 820.06375pt x 489.83pt>
+<./images//wind.png, id=79, 820.06375pt x 489.83pt>
 File: ./images//wind.png Graphic file (type png)
 <use ./images//wind.png>
 Package pdftex.def Info: ./images//wind.png  used on input line 97.
 (pdftex.def)             Requested size: 200.76353pt x 119.91597pt.
-<./images//solar.png, id=76, 820.06375pt x 489.83pt>
+<./images//solar.png, id=80, 820.06375pt x 489.83pt>
 File: ./images//solar.png Graphic file (type png)
 <use ./images//solar.png>
 Package pdftex.def Info: ./images//solar.png  used on input line 97.
@@ -1395,13 +1395,13 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
  [4
 
  <./images//wind.png> <./images//solar.png>]
-<./images//prof.png, id=88, 813.0375pt x 503.8825pt>
-File: ./images//prof.png Graphic file (type png)
-<use ./images//prof.png>
-Package pdftex.def Info: ./images//prof.png  used on input line 108.
-(pdftex.def)             Requested size: 286.80058pt x 177.74547pt.
+<./images//duck.png, id=92, 1277.77374pt x 874.26625pt>
+File: ./images//duck.png Graphic file (type png)
+<use ./images//duck.png>
+Package pdftex.def Info: ./images//duck.png  used on input line 108.
+(pdftex.def)             Requested size: 245.83264pt x 168.19337pt.
 
-Overfull \vbox (19.63956pt too high) detected at line 108
+Overfull \vbox (10.08746pt too high) detected at line 108
  []
 
 File: logos/uliege_small.pdf Graphic file (type pdf)
@@ -1410,126 +1410,127 @@ Package pdftex.def Info: logos/uliege_small.pdf  used on input line 108.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
 [5
 
- <./images//prof.png>]
-<./images//duck.png, id=95, 1277.77374pt x 874.26625pt>
-File: ./images//duck.png Graphic file (type png)
-<use ./images//duck.png>
-Package pdftex.def Info: ./images//duck.png  used on input line 119.
-(pdftex.def)             Requested size: 245.83264pt x 168.19337pt.
+ <./images//duck.png>]
+<./images//neg1.png, id=99, 1918.16624pt x 1014.79124pt>
+File: ./images//neg1.png Graphic file (type png)
+<use ./images//neg1.png>
+Package pdftex.def Info: ./images//neg1.png  used on input line 118.
+(pdftex.def)             Requested size: 307.28769pt x 162.55573pt.
 
-Overfull \vbox (10.08746pt too high) detected at line 119
+Overfull \vbox (4.44981pt too high) detected at line 118
  []
 
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 119.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 118.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
 [6
 
- <./images//duck.png>]
-<./images//valcoe.png, id=102, 771.88374pt x 498.86375pt>
-File: ./images//valcoe.png Graphic file (type png)
-<use ./images//valcoe.png>
-Package pdftex.def Info: ./images//valcoe.png  used on input line 140.
-(pdftex.def)             Requested size: 237.63655pt x 153.58047pt.
+ <./images//neg1.png>]
+<./images//neg2.png, id=106, 1541.76pt x 1027.84pt>
+File: ./images//neg2.png Graphic file (type png)
+<use ./images//neg2.png>
+Package pdftex.def Info: ./images//neg2.png  used on input line 128.
+(pdftex.def)             Requested size: 307.28769pt x 204.8586pt.
 
-Overfull \vbox (23.27448pt too high) detected at line 140
+Overfull \vbox (46.75269pt too high) detected at line 128
  []
 
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 140.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 128.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
 [7
 
- <./images//valcoe.png>] [8
+ <./images//neg2.png (PNG copy)>]
+<./images//duckcurve.png, id=113, 884.30376pt x 491.8375pt>
+File: ./images//duckcurve.png Graphic file (type png)
+<use ./images//duckcurve.png>
+Package pdftex.def Info: ./images//duckcurve.png  used on input line 138.
+(pdftex.def)             Requested size: 286.80058pt x 159.51508pt.
+
+Overfull \vbox (1.40916pt too high) detected at line 138
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 138.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[8
+
+ <./images//duckcurve.png>]
+<./images//canyun.png, id=119, 989.6975pt x 534.99875pt>
+File: ./images//canyun.png Graphic file (type png)
+<use ./images//canyun.png>
+Package pdftex.def Info: ./images//canyun.png  used on input line 148.
+(pdftex.def)             Requested size: 327.77478pt x 177.17871pt.
+
+Overfull \vbox (19.0728pt too high) detected at line 148
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 148.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[9
+
+ <./images//canyun.png>]
+<./images//prof1.png, id=125, 1541.76pt x 1027.84pt>
+File: ./images//prof1.png Graphic file (type png)
+<use ./images//prof1.png>
+Package pdftex.def Info: ./images//prof1.png  used on input line 159.
+(pdftex.def)             Requested size: 245.83264pt x 163.87746pt.
+
+Overfull \vbox (5.77155pt too high) detected at line 159
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 159.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[10
+
+ <./images//prof1.png (PNG copy)>]
+<./images//valcoe.png, id=131, 1541.76pt x 1027.84pt>
+File: ./images//valcoe.png Graphic file (type png)
+<use ./images//valcoe.png>
+Package pdftex.def Info: ./images//valcoe.png  used on input line 180.
+(pdftex.def)             Requested size: 229.44046pt x 152.94603pt.
+
+Overfull \vbox (22.64003pt too high) detected at line 180
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 180.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[11
+
+ <./images//valcoe.png (PNG copy)>] [12
 
 ]
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 152.
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 192.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
-(Font)              scaled to size 14.4pt on input line 152.
+(Font)              scaled to size 14.4pt on input line 192.
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 152.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 192.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
- [9
+ [13
 
 ]
 \openout4 = `uliege_beamer_presentation.vrb'.
 
- (./uliege_beamer_presentation.vrb
-<./images//s12s186.jpg, id=124, 1428.83812pt x 673.01437pt>
+
+(./uliege_beamer_presentation.vrb
+<./images//s12s186.jpg, id=152, 1428.83812pt x 673.01437pt>
 File: ./images//s12s186.jpg Graphic file (type jpg)
 <use ./images//s12s186.jpg>
 Package pdftex.def Info: ./images//s12s186.jpg  used on input line 4.
 (pdftex.def)             Requested size: 368.74272pt x 173.68567pt.
 )
-Overfull \vbox (2.27385pt too high) detected at line 161
- []
-
-File: logos/uliege_small.pdf Graphic file (type pdf)
-<use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 161.
-(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
-[10
-
- <./images//s12s186.jpg>]
-<./images//mtth.png, id=130, 1178.4025pt x 581.17125pt>
-File: ./images//mtth.png Graphic file (type png)
-<use ./images//mtth.png>
-Package pdftex.def Info: ./images//mtth.png  used on input line 170.
-(pdftex.def)             Requested size: 389.22981pt x 191.96446pt.
-
-Overfull \vbox (20.81184pt too high) detected at line 170
- []
-
-File: logos/uliege_small.pdf Graphic file (type pdf)
-<use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 170.
-(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
-[11
-
- <./images//mtth.png>]
-<./images//method1.png, id=138, 745.78625pt x 422.57875pt>
-File: ./images//method1.png Graphic file (type png)
-<use ./images//method1.png>
-Package pdftex.def Info: ./images//method1.png  used on input line 181.
-(pdftex.def)             Requested size: 286.80058pt x 162.5031pt.
-
-Overfull \vbox (25.09708pt too high) detected at line 181
- []
-
-File: logos/uliege_small.pdf Graphic file (type pdf)
-<use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 181.
-(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
-[12
-
- <./images//method1.png>]
-<./images//cons.png, id=146, 960.58875pt x 481.8pt>
-File: ./images//cons.png Graphic file (type png)
-<use ./images//cons.png>
-Package pdftex.def Info: ./images//cons.png  used on input line 192.
-(pdftex.def)             Requested size: 368.74272pt x 184.95322pt.
-
-Overfull \vbox (26.8473pt too high) detected at line 192
- []
-
-File: logos/uliege_small.pdf Graphic file (type pdf)
-<use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 192.
-(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
-[13
-
- <./images//cons.png>]
-<./images//metr.png, id=155, 713.66624pt x 416.55624pt>
-File: ./images//metr.png Graphic file (type png)
-<use ./images//metr.png>
-Package pdftex.def Info: ./images//metr.png  used on input line 201.
-(pdftex.def)             Requested size: 286.80058pt x 167.40134pt.
-
-Overfull \vbox (9.29543pt too high) detected at line 201
+Overfull \vbox (2.27385pt too high) detected at line 201
  []
 
 File: logos/uliege_small.pdf Graphic file (type pdf)
@@ -1538,7 +1539,71 @@ Package pdftex.def Info: logos/uliege_small.pdf  used on input line 201.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
 [14
 
- <./images//metr.png>] [15
+ <./images//s12s186.jpg>]
+<./images//mtth.png, id=158, 1178.4025pt x 581.17125pt>
+File: ./images//mtth.png Graphic file (type png)
+<use ./images//mtth.png>
+Package pdftex.def Info: ./images//mtth.png  used on input line 210.
+(pdftex.def)             Requested size: 368.74272pt x 181.855pt.
+
+Overfull \vbox (10.70238pt too high) detected at line 210
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 210.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[15
+
+ <./images//mtth.png>]
+<./images//method1.jpeg, id=166, 1868.9825pt x 1059.96pt>
+File: ./images//method1.jpeg Graphic file (type jpg)
+<use ./images//method1.jpeg>
+Package pdftex.def Info: ./images//method1.jpeg  used on input line 221.
+(pdftex.def)             Requested size: 286.80058pt x 162.64238pt.
+
+Overfull \vbox (25.23636pt too high) detected at line 221
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 221.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[16
+
+ <./images//method1.jpeg>]
+<./images//cons1.png, id=174, 3074.48625pt x 1541.76pt>
+File: ./images//cons1.png Graphic file (type png)
+<use ./images//cons1.png>
+Package pdftex.def Info: ./images//cons1.png  used on input line 232.
+(pdftex.def)             Requested size: 368.74272pt x 184.90912pt.
+
+Overfull \vbox (26.8032pt too high) detected at line 232
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 232.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[17
+
+ <./images//cons1.png>]
+<./images//metr.jpeg, id=182, 1842.885pt x 1076.02pt>
+File: ./images//metr.jpeg Graphic file (type jpg)
+<use ./images//metr.jpeg>
+Package pdftex.def Info: ./images//metr.jpeg  used on input line 241.
+(pdftex.def)             Requested size: 286.80058pt x 167.45454pt.
+
+Overfull \vbox (9.34863pt too high) detected at line 241
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 241.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[18
+
+ <./images//metr.jpeg>] [19
 
 ]
 \openout4 = `uliege_beamer_presentation.vrb'.
@@ -1555,61 +1620,74 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
 )
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 237.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 277.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
- [16
-
-] [17
+ [20
 
 ]
-<./images//overnight_inti.png, id=186, 1084.05pt x 722.7pt>
+[21
+
+]
+<./images//overnight_inti.png, id=212, 1084.05pt x 722.7pt>
 File: ./images//overnight_inti.png Graphic file (type png)
 <use ./images//overnight_inti.png>
-Package pdftex.def Info: ./images//overnight_inti.png  used on input line 251.
+Package pdftex.def Info: ./images//overnight_inti.png  used on input line 291.
 (pdftex.def)             Requested size: 266.31349pt x 177.54274pt.
 
-Overfull \vbox (19.43683pt too high) detected at line 251
+Overfull \vbox (19.43683pt too high) detected at line 291
  []
 
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 251.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 291.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
-[18
+[22
 
  <./images//overnight_inti.png>]
-<./images//pen.png, id=194, 722.7pt x 433.62pt>
-File: ./images//pen.png Graphic file (type png)
-<use ./images//pen.png>
-Package pdftex.def Info: ./images//pen.png  used on input line 260.
-(pdftex.def)             Requested size: 286.80058pt x 172.08192pt.
-
-Overfull \vbox (13.97601pt too high) detected at line 260
- []
-
+<./images//pen2.png, id=220, 1011.78pt x 361.35pt>
+File: ./images//pen2.png Graphic file (type png)
+<use ./images//pen2.png>
+Package pdftex.def Info: ./images//pen2.png  used on input line 300.
+(pdftex.def)             Requested size: 409.71692pt x 146.3294pt.
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 260.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 300.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
-[19
+ [23
 
- <./images//pen.png>]
-<./images//cossts.png, id=203, 1300.86pt x 722.7pt>
+ <./images//pen2.png>]
+<./images//cossts.png, id=228, 1300.86pt x 722.7pt>
 File: ./images//cossts.png Graphic file (type png)
 <use ./images//cossts.png>
-Package pdftex.def Info: ./images//cossts.png  used on input line 270.
+Package pdftex.def Info: ./images//cossts.png  used on input line 310.
 (pdftex.def)             Requested size: 348.26187pt x 193.47748pt.
 
-Overfull \vbox (35.37157pt too high) detected at line 270
+Overfull \vbox (35.37157pt too high) detected at line 310
  []
 
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 270.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 310.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
-[20
+[24
 
- <./images//cossts.png>] [21
+ <./images//cossts.png>]
+<./images//valcoe_over.png, id=236, 1084.05pt x 722.7pt>
+File: ./images//valcoe_over.png Graphic file (type png)
+<use ./images//valcoe_over.png>
+Package pdftex.def Info: ./images//valcoe_over.png  used on input line 319.
+(pdftex.def)             Requested size: 286.80058pt x 191.19478pt.
+
+Overfull \vbox (32.87288pt too high) detected at line 319
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 319.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[25
+
+ <./images//valcoe_over.png>] [26
 
 ]
 \openout4 = `uliege_beamer_presentation.vrb'.
@@ -1617,14 +1695,32 @@ Package pdftex.def Info: logos/uliege_small.pdf  used on input line 270.
  (./uliege_beamer_presentation.vrb)
 File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
-Package pdftex.def Info: logos/uliege_small.pdf  used on input line 287.
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 336.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
- [22
+
+[27
+
+] [28
+
+] [29
 
 ]
-[23
+<./images//valcoe_form.png, id=274, 689.57625pt x 508.90125pt>
+File: ./images//valcoe_form.png Graphic file (type png)
+<use ./images//valcoe_form.png>
+Package pdftex.def Info: ./images//valcoe_form.png  used on input line 351.
+(pdftex.def)             Requested size: 266.31349pt x 196.53716pt.
 
-]
+Overfull \vbox (38.21526pt too high) detected at line 351
+ []
+
+File: logos/uliege_small.pdf Graphic file (type pdf)
+<use logos/uliege_small.pdf>
+Package pdftex.def Info: logos/uliege_small.pdf  used on input line 351.
+(pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+[30
+
+ <./images//valcoe_form.png>]
 \tf@nav=\write6
 \openout6 = `uliege_beamer_presentation.nav'.
 
@@ -1637,13 +1733,13 @@ Package pdftex.def Info: logos/uliege_small.pdf  used on input line 287.
  (./uliege_beamer_presentation.aux)
 Package rerunfilecheck Info: File `uliege_beamer_presentation.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: E18F0D9E4F3DAFFEABB4E9341FA6EF1C;561.
+(rerunfilecheck)             Checksum: E61E67A583EA956DEB7DCCC345F7B69E;667.
  ) 
 Here is how much of TeX's memory you used:
- 29724 strings out of 479533
- 610383 string characters out of 5876205
- 835126 words of memory out of 5000000
- 47006 multiletter control sequences out of 15000+600000
+ 29804 strings out of 479533
+ 611871 string characters out of 5876205
+ 835138 words of memory out of 5000000
+ 47064 multiletter control sequences out of 15000+600000
  624752 words of font info for 77 fonts, out of 8000000 for 9000
  417 hyphenation exceptions out of 8191
  128i,15n,122p,1883b,969s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1652,10 +1748,10 @@ sr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regul
 ar.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSan
 sPro-Semibold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sy
 mbols/msam10.pfb>
-Output written on uliege_beamer_presentation.pdf (23 pages, 4731376 bytes).
+Output written on uliege_beamer_presentation.pdf (30 pages, 9554691 bytes).
 PDF statistics:
- 263 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 57 named destinations out of 1000 (max. 500000)
- 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 316 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 
