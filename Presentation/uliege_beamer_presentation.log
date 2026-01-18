@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.5.27)  18 JAN 2026 18:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.5.27)  18 JAN 2026 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1704,10 +1704,10 @@ Package pdftex.def Info: logos/uliege_small.pdf  used on input line 328.
 [26
 
  <./images//flexibility.png>]
-<./images//valcoe_over.png, id=253, 1084.05pt x 722.7pt>
-File: ./images//valcoe_over.png Graphic file (type png)
-<use ./images//valcoe_over.png>
-Package pdftex.def Info: ./images//valcoe_over.png  used on input line 337.
+<./images//valcoee.png, id=253, 1084.05pt x 722.7pt>
+File: ./images//valcoee.png Graphic file (type png)
+<use ./images//valcoee.png>
+Package pdftex.def Info: ./images//valcoee.png  used on input line 337.
 (pdftex.def)             Requested size: 286.80058pt x 191.19478pt.
 
 Overfull \vbox (32.87288pt too high) detected at line 337
@@ -1719,7 +1719,7 @@ Package pdftex.def Info: logos/uliege_small.pdf  used on input line 337.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
 [27
 
- <./images//valcoe_over.png>] [28
+ <./images//valcoee.png>] [28
 
 ]
 \openout4 = `uliege_beamer_presentation.vrb'.
@@ -1729,10 +1729,10 @@ File: logos/uliege_small.pdf Graphic file (type pdf)
 <use logos/uliege_small.pdf>
 Package pdftex.def Info: logos/uliege_small.pdf  used on input line 354.
 (pdftex.def)             Requested size: 20.0pt x 22.68782pt.
+ [29
 
-[29
-
-] [30
+]
+[30
 
 ] [31
 
@@ -1769,7 +1769,7 @@ ged.
  ) 
 Here is how much of TeX's memory you used:
  29828 strings out of 479533
- 612467 string characters out of 5876205
+ 612435 string characters out of 5876205
  835138 words of memory out of 5000000
  47082 multiletter control sequences out of 15000+600000
  624752 words of font info for 77 fonts, out of 8000000 for 9000
@@ -1780,7 +1780,7 @@ sr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regul
 ar.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSan
 sPro-Semibold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sy
 mbols/msam10.pfb>
-Output written on uliege_beamer_presentation.pdf (32 pages, 9985639 bytes).
+Output written on uliege_beamer_presentation.pdf (32 pages, 9988585 bytes).
 PDF statistics:
  335 PDF objects out of 1000 (max. 8388607)
  237 compressed objects within 3 object streams
